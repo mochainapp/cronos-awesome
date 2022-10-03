@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "MoWallet", 
+        "category": ["Infrastructure", "Wallet", "NFT", "Web3"],
+        "logo": "https://3be.cfb.myftpupload.com/wp-content/uploads/2022/09/mo-app.png",
+        "description": "MoWallet is a DeFi Crypto Wallet, easy to access several chains in one app. With multi-chain support, ens domain support & wallet tracking, MoWallet offers the best features for investors.",
+        "link": "https://mowallet.app/",
+        "twitter": "https://twitter.com/mowalletapp"
+    }
+}
