@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "MoWallet", 
+        "category": ["Wallet", "NFT"],
+        "logo": "https://3be.cfb.myftpupload.com/wp-content/uploads/2022/09/mo-app.png",
+        "description": "MoWallet is a Multi-Chain wallet providing great features for its users. With ENS DOmain Support and Multi-Chain support, users can use one wallet for multiple purposes.",
+        "link": "https://mowallet.app/",
+        "twitter": "https://twitter.com/mowalletapp"
+    }
+}
